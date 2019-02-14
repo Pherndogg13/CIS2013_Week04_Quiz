@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-		for(int n=1; n<101; n++) {
+		for(int n=1; n<100; n++) {
 		cout << n + 1 << endl;
 		cout << endl;
 		cout << endl;
